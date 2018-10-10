@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="header">Questions about Cricket</string>
+
+    <string name="question1">1. Which cricketers have the record for the highest run patnership at the World Cup ?</string>
+    <string name="q1a1">A. Sachin Tendulkar and Saurav Ganguly</string>
+    <string name="q1a2">B. Saurav Ganguly and Rahul Dravid</string>
+    <string name="q1a3">C. Saurav Ganguly and Virender Sehwag</string>
+    <string name="q1a4">C. Rahul Dravid and Sachin Tendulkar</string>
+
+    <string name="question2">2. Against which country did India score their lowest total at the World Cup ?</string>
+    <string name="q2a1">A. West <Indies></Indies></string>
+    <string name="q2a2">B. England</string>
+    <string name="q2a3">C. New Zealand</string>
+    <string name="q2a4">C. Australia</string>
+
+    <string name="question3">3. Who was the wicket-keeper of the Indian Cricket Team during the World Cup 2003 tournament?</string>
+    <string name="q3a1">A. Parthiv Patel</string>
+    <string name="q3a2">B. Nayan Mongia</string>
+    <string name="q3a3">C. Rahul Dravid</string>
+    <string name="q3a4">C. Mahendra Singh Dhoni</string>
+
+    <string name="question4">4. Which Cricketer has scored the most runs at the World Cup ?</string>
+    <string name="q4a1">A. Sachin Tendulkar</string>
+    <string name="q4a2">B. M Azharuddin</string>
+    <string name="q4a3">C. Saurav Ganguly</string>
+    <string name="q4a4">C. Rahul Dravid</string>
+
+    <string name="question5">5. In which year were the World Cup matches reduced to 50 overs from the previous 60 overs?</string>
+    <string name="q5a1">A. 1983</string>
+    <string name="q5a2">B. 1979</string>
+    <string name="q5a3">C. 1992</string>
+    <string name="q5a4">C. 1987</string>
+
+    <string name="checkScoreButtonText">Check Score</string>
+    <string name="resetButtonText">Reset Answers</string>
+
+    <string name="totalNumberOfQuestions">5</string>
+    <string name="correctAnswers">23334</string>
+</resources>
